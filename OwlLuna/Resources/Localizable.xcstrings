@@ -16369,6 +16369,12 @@
             "state": "translated",
             "value": "Les dossiers ne se synchronisent pas"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المجلدات لا تتم مزامنتها"
+          }
         }
       }
     },
@@ -17517,6 +17523,12 @@
             "state": "translated",
             "value": "iCloud télécharge encore votre bibliothèque. La synchronisation réessaiera sous peu."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا يزال iCloud ينزّل مكتبتك. ستتم إعادة محاولة المزامنة قريبًا."
+          }
         }
       }
     },
@@ -18190,6 +18202,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sa copie dans iCloud est illisible."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذرت قراءة نسخته في iCloud."
           }
         }
       }
