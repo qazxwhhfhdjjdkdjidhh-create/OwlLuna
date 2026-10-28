@@ -138,6 +138,55 @@ jobs:
             ${{ runner.temp }}/*.log
             ${{ runner.temp }}/*.xcresult
 
+  performance:
+    name: iPad performance regression suite
+    runs-on: xcode-27
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Boot an iPad simulator
+        id: simulator
+        uses: ./.github/actions/boot-ipad
+
+      - name: Build performance tests
+        run: |
+          set -o pipefail
+          test -n "$SIMULATOR_UDID" || { echo "::error::No iPad simulator is available."; exit 1; }
+          xcodebuild build-for-testing \
+            -project OwlLuna.xcodeproj \
+            -scheme OwlLuna \
+            -destination "platform=iOS Simulator,id=$SIMULATOR_UDID" \
+            2>&1 | tee "$RUNNER_TEMP/perf-build.log" \
+            | xcbeautify --renderer github-actions
+
+      - name: Long PDF, heavy ink and autosave performance
+        env:
+          OWLLUNA_PERF: "1"
+        run: |
+          set -o pipefail
+          xcodebuild test-without-building \
+            -project OwlLuna.xcodeproj \
+            -scheme OwlLuna \
+            -destination "platform=iOS Simulator,id=$SIMULATOR_UDID" \
+            -only-testing:OwlLunaTests/PerformanceBaselineTests/testV2OpenLongPDF \
+            -only-testing:OwlLunaTests/PerformanceBaselineTests/testV2MemoryScrollingLongPDF \
+            -only-testing:OwlLunaTests/PerformanceBaselineTests/testV2MemoryScrollingHeavyInk \
+            -only-testing:OwlLunaTests/PerformanceBaselineTests/testV2AutosaveMainThreadWithIndexing \
+            -parallel-testing-enabled NO \
+            -resultBundlePath "$RUNNER_TEMP/Performance.xcresult" \
+            2>&1 | tee "$RUNNER_TEMP/performance.log" \
+            | xcbeautify --renderer github-actions
+
+      - uses: actions/upload-artifact@v7
+        if: failure()
+        with:
+          name: performance-results
+          retention-days: 14
+          path: |
+            ${{ runner.temp }}/*.log
+            ${{ runner.temp }}/Performance.xcresult
+
   release:
     name: Release build
     runs-on: xcode-27
