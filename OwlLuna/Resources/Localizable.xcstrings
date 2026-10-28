@@ -13542,6 +13542,12 @@
             "state": "translated",
             "value": "Supprimer cette carte ?"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حذف بطاقة المراجعة هذه؟"
+          }
         }
       }
     },
@@ -15953,6 +15959,12 @@
             "state": "translated",
             "value": "Carte créée à partir du ruban"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم إنشاء بطاقة من شريط المذاكرة"
+          }
         }
       }
     },
@@ -16030,6 +16042,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les cartes n’ont pas pu être enregistrées : %@"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر حفظ بطاقات المراجعة: %@"
           }
         }
       }
@@ -16128,6 +16146,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cartes mémoire : tout est à jour. %@"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تمت مراجعة كل البطاقات. %@"
           }
         }
       }
@@ -32205,6 +32229,12 @@
             "state": "translated",
             "value": "Il n'y a pas encore assez de texte ici pour étudier."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا توجد كتابة كافية هنا لإنشاء مواد للمذاكرة بعد."
+          }
         }
       }
     },
@@ -34078,6 +34108,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Revient à la question"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "العودة إلى السؤال"
           }
         }
       }
