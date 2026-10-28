@@ -10237,6 +10237,12 @@
             "state": "translated",
             "value": "Réponse"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الإجابة"
+          }
         }
       }
     },
@@ -16746,6 +16752,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Masquer la réponse"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إخفاء الإجابة"
           }
         }
       }
@@ -24369,6 +24381,12 @@
             "state": "translated",
             "value": "Questions d'entraînement"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أسئلة تدريبية"
+          }
         }
       }
     },
@@ -24877,6 +24895,12 @@
             "state": "translated",
             "value": "Question"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "السؤال"
+          }
         }
       }
     },
@@ -24921,6 +24945,12 @@
             "state": "translated",
             "value": "Point d’interrogation"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "علامة استفهام"
+          }
         }
       }
     },
@@ -24942,6 +24972,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Questions prêtes"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الأسئلة جاهزة"
           }
         }
       }
@@ -27833,6 +27869,12 @@
             "state": "translated",
             "value": "Afficher la réponse"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إظهار الإجابة"
+          }
         }
       }
     },
@@ -29758,6 +29800,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Échanger la question et la réponse"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تبديل السؤال والإجابة"
           }
         }
       }
@@ -33951,6 +33999,12 @@
             "state": "translated",
             "value": "Ce qu'elle répond"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الإجابة المرتبطة"
+          }
         }
       }
     },
@@ -34564,6 +34618,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Rédaction de questions à partir de vos notes…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جارٍ إنشاء أسئلة من ملاحظاتك…"
           }
         }
       }
