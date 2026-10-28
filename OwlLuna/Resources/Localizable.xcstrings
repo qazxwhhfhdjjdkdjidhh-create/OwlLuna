@@ -16335,7 +16335,7 @@
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "وضع التركيز. شريط الأدوات مخفي."
+            "value": "وضع التركيز: شريط الأدوات مخفي."
           }
         }
       }
@@ -19867,6 +19867,12 @@
             "state": "translated",
             "value": "Marque cette page pour y revenir facilement."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يضع علامة على الصفحة لتسهيل الرجوع إليها."
+          }
         }
       }
     },
@@ -22735,7 +22741,7 @@
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "الرسم متاح حاليًا باستخدام Apple Pencil فقط."
+            "value": "الرسم متاح باستخدام Apple Pencil فقط حاليًا."
           }
         }
       }
@@ -23342,6 +23348,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvre le navigateur de pages. Maintenez le doigt pour aller à une page."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يفتح متصفح الصفحات. اضغط مطولًا للانتقال إلى صفحة."
           }
         }
       }
@@ -28820,6 +28832,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Affiche ou masque le plumier d’outils en bas."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إظهار أو إخفاء شريط الأدوات بالأسفل."
           }
         }
       }
