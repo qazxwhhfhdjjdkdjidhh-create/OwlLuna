@@ -14,7 +14,7 @@ enum InkTranslation {
 
     /// The languages offered: the ones the iPad is set to first, then the rest by name.
     static func languages() async -> [Locale.Language] {
-        let supported = isScripted ? ["es", "fr", "de"].map(Locale.Language.init(identifier:)) : await LanguageAvailability().supportedLanguages
+        let supported = isScripted ? ["ar", "en", "es", "fr", "de"].map(Locale.Language.init(identifier:)) : await LanguageAvailability().supportedLanguages
         return ordered(supported, preferred: Locale.preferredLanguages.map(Locale.Language.init(identifier:)))
     }
 
@@ -57,7 +57,7 @@ enum InkTranslation {
     #if DEBUG
     /// `-fakeTranslate` stands this in for the translator, which a simulator doesn't have.
     static func scripted(_ text: String, into language: Locale.Language) -> String {
-        let hello = ["es": "HOLA", "fr": "BONJOUR", "de": "HALLO"][language.minimalIdentifier] ?? "HELLO"
+        let hello = ["ar": "مرحبًا", "en": "HELLO", "es": "HOLA", "fr": "BONJOUR", "de": "HALLO"][language.minimalIdentifier] ?? "HELLO"
         return text.components(separatedBy: "\n").map { $0.trimmingCharacters(in: .whitespaces).isEmpty ? $0 : $0.uppercased().contains("HELLO") ? hello : "[\(language.minimalIdentifier)] \($0)" }
             .joined(separator: "\n")
     }
