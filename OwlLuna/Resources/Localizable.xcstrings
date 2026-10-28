@@ -1771,6 +1771,12 @@
             "state": "translated",
             "value": "Créé"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تاريخ الإنشاء"
+          }
         }
       }
     },
@@ -1920,6 +1926,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Modifié"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "آخر تعديل"
           }
         }
       }
@@ -10283,6 +10295,12 @@
             "state": "translated",
             "value": "Apparence"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المظهر"
+          }
         }
       }
     },
@@ -10687,6 +10705,12 @@
             "state": "translated",
             "value": "Sauvegarde"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نسخة احتياطية"
+          }
         }
       }
     },
@@ -10957,6 +10981,12 @@
             "state": "translated",
             "value": "Signets"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "العلامات"
+          }
         }
       }
     },
@@ -11088,6 +11118,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Calendrier"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "التقويم"
           }
         }
       }
@@ -12568,6 +12604,12 @@
             "state": "translated",
             "value": "Couverture"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الغلاف"
+          }
         }
       }
     },
@@ -12932,6 +12974,12 @@
             "state": "translated",
             "value": "Journal"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اليوميات"
+          }
         }
       }
     },
@@ -12975,6 +13023,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sombre"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "داكن"
           }
         }
       }
@@ -16783,6 +16837,12 @@
             "state": "translated",
             "value": "iCloud"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud"
+          }
         }
       }
     },
@@ -17647,6 +17707,12 @@
             "state": "translated",
             "value": "Journal"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اليوميات"
+          }
         }
       }
     },
@@ -17778,6 +17844,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Garder le papier clair"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إبقاء الورق فاتحًا"
           }
         }
       }
@@ -18281,6 +18353,12 @@
             "state": "translated",
             "value": "Pour gauchers"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "استخدام باليد اليسرى"
+          }
         }
       }
     },
@@ -18484,6 +18562,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Clair"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فاتح"
           }
         }
       }
@@ -19982,6 +20066,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nom"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الاسم"
           }
         }
       }
@@ -22579,6 +22669,12 @@
             "state": "translated",
             "value": "Contour"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الفهرس"
+          }
         }
       }
     },
@@ -23141,6 +23237,12 @@
             "state": "translated",
             "value": "Papier"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الورق"
+          }
         }
       }
     },
@@ -23450,6 +23552,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Stylos"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الأقلام"
           }
         }
       }
@@ -24592,6 +24700,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Supprimés récemment"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المحذوفة مؤخرًا"
           }
         }
       }
@@ -25920,6 +26034,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Restaurer"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "استعادة"
           }
         }
       }
@@ -27807,6 +27927,12 @@
             "state": "translated",
             "value": "Étagère intelligente"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "رف ذكي"
+          }
         }
       }
     },
@@ -27828,6 +27954,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Étagères intelligentes"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الرفوف الذكية"
           }
         }
       }
@@ -27966,6 +28098,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Trier"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الترتيب"
           }
         }
       }
@@ -28456,6 +28594,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autocollants"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الملصقات"
           }
         }
       }
@@ -29413,6 +29557,12 @@
             "state": "translated",
             "value": "Système"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "النظام"
+          }
         }
       }
     },
@@ -29987,6 +30137,12 @@
             "state": "translated",
             "value": "Zone de texte"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مربع نص"
+          }
         }
       }
     },
@@ -30008,6 +30164,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Zone de texte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مربع نص"
           }
         }
       }
@@ -31457,6 +31619,12 @@
             "state": "translated",
             "value": "Cette semaine"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هذا الأسبوع"
+          }
         }
       }
     },
@@ -31692,6 +31860,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aujourd’hui"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اليوم"
           }
         }
       }
@@ -32000,6 +32174,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Outils"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الأدوات"
           }
         }
       }
@@ -33598,6 +33778,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Écriture"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الكتابة"
           }
         }
       }
