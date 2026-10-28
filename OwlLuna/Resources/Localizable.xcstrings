@@ -13104,6 +13104,12 @@
             "state": "translated",
             "value": "Découpage de l’autocollant"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جارٍ قص الملصق"
+          }
         }
       }
     },
@@ -13821,6 +13827,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Supprimer l’autocollant"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حذف الملصق"
           }
         }
       }
@@ -15124,6 +15136,12 @@
             "state": "translated",
             "value": "Exporter en images"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تصدير كصور"
+          }
         }
       }
     },
@@ -15195,6 +15213,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Exporter les images"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تصدير الصور"
           }
         }
       }
@@ -16222,6 +16246,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "À partir d’une photo…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "من صورة…"
           }
         }
       }
@@ -17763,6 +17793,12 @@
             "state": "translated",
             "value": "Insérer une photo"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إدراج صورة"
+          }
         }
       }
     },
@@ -17784,6 +17820,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Insérer une photo…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إدراج صورة…"
           }
         }
       }
@@ -20399,6 +20441,12 @@
             "state": "translated",
             "value": "Mes autocollants"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ملصقاتي"
+          }
         }
       }
     },
@@ -20788,6 +20836,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nouvel autocollant à partir d’une photo"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ملصق جديد من صورة"
           }
         }
       }
@@ -27217,6 +27271,12 @@
             "state": "translated",
             "value": "Numériser des documents"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مسح مستندات"
+          }
         }
       }
     },
@@ -27238,6 +27298,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Numériser des documents…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مسح مستندات…"
           }
         }
       }
@@ -29171,6 +29237,12 @@
             "state": "translated",
             "value": "Autocollant créé"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم إنشاء الملصق"
+          }
         }
       }
     },
@@ -29214,6 +29286,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autocollant…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ملصق…"
           }
         }
       }
@@ -32207,6 +32285,12 @@
             "state": "translated",
             "value": "Cette page en image…"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هذه الصفحة كصورة…"
+          }
         }
       }
     },
@@ -33930,6 +34014,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Utiliser la photo entière"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "استخدام الصورة كاملة"
           }
         }
       }
