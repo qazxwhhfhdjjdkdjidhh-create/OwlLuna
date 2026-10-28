@@ -163,6 +163,7 @@ jobs:
       - name: Long PDF, heavy ink and autosave performance
         env:
           OWLLUNA_PERF: "1"
+          TEST_RUNNER_OWLLUNA_PERF: "1"
         run: |
           set -o pipefail
           xcodebuild test-without-building \
