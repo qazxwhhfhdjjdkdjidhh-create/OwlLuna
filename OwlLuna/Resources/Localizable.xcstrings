@@ -2501,6 +2501,12 @@
             "state": "translated",
             "value": "Retire la couleur et la réglure. Les pages PDF importées et les photos restent."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يستبعد لون الورق والتسطير، مع إبقاء صفحات PDF والصور المستوردة."
+          }
         }
       }
     },
@@ -2712,6 +2718,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les pages gardent leur couleur et leur réglure."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحتفظ الصفحات بلونها وتسطيرها."
           }
         }
       }
@@ -3192,6 +3204,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les mots lus dans votre écriture sont placés dessous : tout lecteur PDF peut les trouver et les sélectionner."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تُضاف الكلمات المتعرف عليها من كتابتك أسفلها لتصبح قابلة للبحث والتحديد في قارئات PDF."
           }
         }
       }
@@ -4734,6 +4752,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ملفات PDF جاهزة: %lld"
           }
         }
       }
@@ -15317,6 +15341,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Exporter « %@ »"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تصدير «%@»"
           }
         }
       }
