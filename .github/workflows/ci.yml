@@ -95,6 +95,23 @@ jobs:
             2>&1 | tee "$RUNNER_TEMP/test.log" \
             | xcbeautify --renderer github-actions
 
+      - name: Critical PDF and memory tests
+        if: steps.build.outcome == 'success'
+        run: |
+          set -o pipefail
+          xcodebuild test-without-building \
+            -project OwlLuna.xcodeproj \
+            -scheme OwlLuna \
+            -destination "platform=iOS Simulator,id=$SIMULATOR_UDID" \
+            -only-testing:OwlLunaTests/PDFTextTests \
+            -only-testing:OwlLunaTests/PDFExportTests \
+            -only-testing:OwlLunaTests/MemoryTests \
+            -only-testing:OwlLunaTests/TranslateTests \
+            -parallel-testing-enabled NO \
+            -resultBundlePath "$RUNNER_TEMP/Critical.xcresult" \
+            2>&1 | tee "$RUNNER_TEMP/critical.log" \
+            | xcbeautify --renderer github-actions
+
       - name: UI smoke test
         if: ${{ !cancelled() && steps.build.outcome == 'success' }}
         timeout-minutes: 30
