@@ -21,6 +21,12 @@
             "state": "translated",
             "value": "%@ n’a pas été synchronisé"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم تتم مزامنة %@"
+          }
         }
       }
     },
@@ -481,6 +487,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم استبعاد %lld دفتر مقفل. افتح القفل لتصديرها."
+          }
         }
       }
     },
@@ -556,6 +568,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld دفتر مقفل"
           }
         }
       }
@@ -633,6 +651,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا يزال تنزيل %lld دفتر من iCloud جاريًا"
+          }
         }
       }
     },
@@ -708,6 +732,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم تتم مزامنة %lld دفتر"
           }
         }
       }
@@ -785,6 +815,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم يتم حذف %lld دفتر"
+          }
         }
       }
     },
@@ -861,6 +897,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا يزال رفع %lld دفتر إلى iCloud جاريًا"
+          }
         }
       }
     },
@@ -936,6 +978,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم يتم رفع %lld دفتر إلى iCloud"
           }
         }
       }
@@ -2144,6 +2192,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تصدير %lld دفتر مقفل"
           }
         }
       }
@@ -3489,6 +3543,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قفل %lld دفتر"
+          }
         }
       }
     },
@@ -3751,6 +3811,12 @@
             "state": "translated",
             "value": "Sur certains carnets"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "في بعض الدفاتر"
+          }
         }
       }
     },
@@ -3772,6 +3838,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sur certains d’entre eux"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "في بعضها"
           }
         }
       }
@@ -4347,6 +4419,12 @@
             "state": "translated",
             "value": "Synchronisation : %lld sur %lld carnets"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جارٍ مزامنة %lld من %lld دفتر"
+          }
         }
       }
     },
@@ -4441,6 +4519,12 @@
             "state": "translated",
             "value": "La version de l’autre appareil est conservée dans votre bibliothèque sous le nom « %@ »."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم الاحتفاظ بنسخة الجهاز الآخر في مكتبتك باسم «%@»."
+          }
         }
       }
     },
@@ -4463,6 +4547,12 @@
             "state": "translated",
             "value": "Voici la version la plus récente, venue d’un autre appareil. La vôtre est conservée dans votre bibliothèque sous le nom « %@ »."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هذه هي النسخة الأحدث من جهاز آخر. تم الاحتفاظ بنسختك في المكتبة باسم «%@»."
+          }
         }
       }
     },
@@ -4484,6 +4574,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ce carnet a aussi été modifié sur un autre appareil. Conserver les deux enregistre l’ancienne version sous forme de copie en conflit, comme à sa fermeture."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم تعديل هذا الدفتر على جهاز آخر أيضًا. خيار الاحتفاظ بكليهما يحفظ النسخة الأقدم كنسخة متعارضة."
           }
         }
       }
@@ -4700,6 +4796,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Envoi vers iCloud : %lld sur %lld carnets"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جارٍ رفع %lld من %lld دفتر إلى iCloud"
           }
         }
       }
@@ -5963,6 +6065,12 @@
             "state": "translated",
             "value": "%1$@. Dernière synchronisation : %2$@."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@. آخر مزامنة %@."
+          }
         }
       }
     },
@@ -6038,6 +6146,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم الاحتفاظ بـ %lld نسخة متعارضة"
           }
         }
       }
@@ -6191,6 +6305,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تمت مزامنة %lld عملية حذف"
+          }
         }
       }
     },
@@ -6266,6 +6386,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم تأجيل %lld عملية حذف"
           }
         }
       }
@@ -6653,6 +6779,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم حذف %lld صفحة إضافية منذ ذلك الوقت."
+          }
         }
       }
     },
@@ -6805,6 +6937,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يوجد %lld دفتر مختلف عن الموجود في مكتبتك، لذلك تمت استعادته كنسخة منفصلة."
+          }
         }
       }
     },
@@ -6880,6 +7018,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذرت قراءة %lld دفتر في النسخة الاحتياطية وتم استبعاده."
           }
         }
       }
@@ -6957,6 +7101,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم استلام %lld دفتر"
+          }
         }
       }
     },
@@ -7032,6 +7182,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم إرسال %lld دفتر"
           }
         }
       }
@@ -7109,6 +7265,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld دفتر ينتظر حتى يتم إغلاقه"
+          }
         }
       }
     },
@@ -7185,6 +7347,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "كان %lld دفتر موجودًا بالفعل وتمت استعادة بطاقات المراجعة وسجل المراجعات إليه من النسخة الاحتياطية."
+          }
         }
       }
     },
@@ -7260,6 +7428,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "كان %lld دفتر موجودًا بالفعل."
           }
         }
       }
@@ -7676,6 +7850,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم إنشاء %lld صفحة بإصدار أحدث من OwlLuna وهي مخفية هنا. تم الاحتفاظ بها دون تغيير."
           }
         }
       }
@@ -9207,6 +9387,12 @@
             "state": "translated",
             "value": "Un autre compte Apple est connecté"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم تسجيل الدخول بحساب Apple مختلف"
+          }
         }
       }
     },
@@ -9294,6 +9480,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Un carnet d’iCloud"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "دفتر من iCloud"
           }
         }
       }
