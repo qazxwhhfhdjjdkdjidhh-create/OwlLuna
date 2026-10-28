@@ -6,7 +6,7 @@ final class TranslateTests: XCTestCase {
     private func language(_ identifier: String) -> Locale.Language { Locale.Language(identifier: identifier) }
 
     func testTheLanguagesTheIPadIsSetToComeFirst() {
-        let supported = ["de", "en", "es", "fr", "ja", "pt-BR"].map(language)
+        let supported = ["ar", "de", "en", "es", "fr", "ja", "pt-BR"].map(language)
         let ordered = InkTranslation.ordered(supported, preferred: [language("fr-CA"), language("en-GB"), language("sv")])
         XCTAssertEqual(ordered.prefix(2).map(\.minimalIdentifier), ["fr", "en"], "a regional setting finds its language; one that isn't supported is left out")
         XCTAssertEqual(ordered.count, supported.count, "every supported language is offered once")
@@ -25,6 +25,8 @@ final class TranslateTests: XCTestCase {
 
     func testTheStandInTranslatesTheSeededHandwriting() {
         XCTAssertEqual(InkTranslation.scripted("HELLO", into: language("fr")), "BONJOUR")
+        XCTAssertEqual(InkTranslation.scripted("HELLO", into: language("ar")), "مرحبًا")
+        XCTAssertEqual(InkTranslation.scripted("HELLO", into: language("en")), "HELLO")
         XCTAssertEqual(InkTranslation.scripted("Hello\n\nnotes", into: language("es")), "HOLA\n\n[es] notes")
     }
 }
