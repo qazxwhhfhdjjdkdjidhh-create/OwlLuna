@@ -50,6 +50,8 @@ final class PageStackController: UIViewController, UIScrollViewDelegate, PKCanva
     private var canvases: [UUID: PageCanvasView] = [:]
     private var pool: [PageCanvasView] = []
     private var canvasWindow: ClosedRange<Int>?
+    private var lastScrollOffset: CGPoint = .zero
+    private var scrollDirection: CGFloat = 0
     /// Whether light paper is being shown dark.
     private var night = false
     private var isApplyingDrawing = false
@@ -721,7 +723,16 @@ final class PageStackController: UIViewController, UIScrollViewDelegate, PKCanva
     private func updateWindow(force: Bool = false) {
         guard isViewLoaded, lastBounds != .zero, !isBaking, let visible = visibleRange() else { return }
         let count = pages.count
-        let window = layout.solo.map { $0...$0 } ?? max(0, visible.lowerBound - 1)...min(count - 1, visible.upperBound + 1)
+        let window: ClosedRange<Int>
+        if let solo = layout.solo {
+            window = solo...solo
+        } else {
+            // Keep more pages alive in the direction of travel. This avoids rebuilding
+            // PDF paper/canvases right as they enter the viewport on older iPads.
+            let before = scrollDirection < 0 ? 2 : 1
+            let after = scrollDirection > 0 ? 2 : 1
+            window = max(0, visible.lowerBound - before)...min(count - 1, visible.upperBound + after)
+        }
         if force || window != canvasWindow {
             canvasWindow = window
             let keep = Set(pages[window].map(\.id))
@@ -3062,6 +3073,9 @@ final class PageStackController: UIViewController, UIScrollViewDelegate, PKCanva
 
     func scrollViewDidScroll(_ scrollView: UIScrollView) {
         guard !isBaking else { return }
+        let dy = scrollView.contentOffset.y - lastScrollOffset.y
+        if abs(dy) > 0.5 { scrollDirection = dy }
+        lastScrollOffset = scrollView.contentOffset
         updateWindow()
     }
 
