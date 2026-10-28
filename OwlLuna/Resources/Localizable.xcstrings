@@ -13114,6 +13114,12 @@
             "state": "translated",
             "value": "Supprimer la carte"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حذف البطاقة"
+          }
         }
       }
     },
@@ -13135,6 +13141,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Supprimer la carte…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حذف البطاقة…"
           }
         }
       }
@@ -13541,6 +13553,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Supprimer l’enregistrement"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حذف التسجيل"
           }
         }
       }
@@ -14333,6 +14351,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Modifier la carte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعديل البطاقة"
           }
         }
       }
@@ -15181,6 +15205,12 @@
             "state": "translated",
             "value": "Trouver les carnets dans Spotlight"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "البحث عن الدفاتر في Spotlight"
+          }
         }
       }
     },
@@ -15381,6 +15411,12 @@
             "state": "translated",
             "value": "Carte mémoire"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بطاقة مراجعة"
+          }
         }
       }
     },
@@ -15402,6 +15438,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Carte créée"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم إنشاء بطاقة مراجعة"
           }
         }
       }
@@ -15446,6 +15488,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Carte enregistrée"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم حفظ بطاقة المراجعة"
           }
         }
       }
@@ -15616,6 +15664,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cartes mémoire…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بطاقات المراجعة…"
           }
         }
       }
@@ -18931,6 +18985,12 @@
             "state": "translated",
             "value": "Créer des cartes à partir du ruban de révision"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إنشاء بطاقات من شريط المذاكرة"
+          }
         }
       }
     },
@@ -18952,6 +19012,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Créer une carte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إنشاء بطاقة مراجعة"
           }
         }
       }
@@ -20055,6 +20121,12 @@
             "state": "translated",
             "value": "Nouvelle carte"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بطاقة مراجعة جديدة"
+          }
         }
       }
     },
@@ -20525,6 +20597,12 @@
             "state": "translated",
             "value": "Pas encore de cartes."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا توجد بطاقات مراجعة بعد."
+          }
         }
       }
     },
@@ -20668,6 +20746,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aucun enregistrement"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا توجد تسجيلات"
           }
         }
       }
@@ -21921,6 +22005,12 @@
             "state": "translated",
             "value": "Ouvrir sa page"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح صفحتها"
+          }
         }
       }
     },
@@ -22839,6 +22929,12 @@
             "state": "translated",
             "value": "Page après l’actuelle"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "صفحة بعد الحالية"
+          }
         }
       }
     },
@@ -22861,6 +22957,12 @@
             "state": "translated",
             "value": "Page à la fin"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "صفحة في النهاية"
+          }
         }
       }
     },
@@ -22882,6 +22984,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Signet ajouté à la page"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم حفظ الصفحة في العلامات"
           }
         }
       }
@@ -22927,6 +23035,12 @@
             "state": "translated",
             "value": "Numéro de page"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "رقم الصفحة"
+          }
         }
       }
     },
@@ -22948,6 +23062,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Taille de page"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حجم الصفحة"
           }
         }
       }
@@ -23130,6 +23250,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Page PDF"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "صفحة PDF"
           }
         }
       }
@@ -23468,6 +23594,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Image sur cette page…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "صورة في هذه الصفحة…"
           }
         }
       }
@@ -24533,6 +24665,12 @@
             "state": "translated",
             "value": "Enregistrer l’audio"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تسجيل الصوت"
+          }
         }
       }
     },
@@ -24577,6 +24715,12 @@
             "state": "translated",
             "value": "Enregistrement sauvegardé"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم حفظ التسجيل"
+          }
         }
       }
     },
@@ -24598,6 +24742,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Enregistrement démarré"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بدأ التسجيل"
           }
         }
       }
@@ -24752,6 +24902,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Enregistrements"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "التسجيلات"
           }
         }
       }
@@ -25357,6 +25513,12 @@
             "state": "translated",
             "value": "Renommer le dossier"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إعادة تسمية المجلد"
+          }
         }
       }
     },
@@ -25400,6 +25562,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Renommer le carnet"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إعادة تسمية الدفتر"
           }
         }
       }
@@ -26269,6 +26437,12 @@
             "state": "translated",
             "value": "Enregistrées dans les cartes"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم الحفظ في بطاقات المراجعة"
+          }
         }
       }
     },
@@ -26539,6 +26713,12 @@
             "state": "translated",
             "value": "Rechercher dans la bibliothèque"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بحث في المكتبة"
+          }
         }
       }
     },
@@ -26589,6 +26769,12 @@
             "state": "translated",
             "value": "Tout sélectionner sur cette page"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحديد الكل في هذه الصفحة"
+          }
         }
       }
     },
@@ -26633,6 +26819,12 @@
             "state": "translated",
             "value": "Sélectionner l’encre sur plusieurs pages"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحديد الحبر عبر الصفحات"
+          }
         }
       }
     },
@@ -26676,6 +26868,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sélectionner le texte du PDF"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحديد نص PDF"
           }
         }
       }
@@ -27085,6 +27283,12 @@
             "state": "translated",
             "value": "Afficher les sous-dossiers"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إظهار المجلدات الداخلية"
+          }
         }
       }
     },
@@ -27150,6 +27354,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Afficher ou masquer les outils"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إظهار أو إخفاء الأدوات"
           }
         }
       }
@@ -27684,6 +27894,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aligner le surligneur sur le texte du PDF"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "محاذاة قلم التمييز مع نص PDF"
           }
         }
       }
@@ -28329,6 +28545,12 @@
             "state": "translated",
             "value": "Arrêter l’enregistrement"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إيقاف التسجيل"
+          }
         }
       }
     },
@@ -28539,6 +28761,12 @@
             "state": "translated",
             "value": "Étudier quand même"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المذاكرة على أي حال"
+          }
         }
       }
     },
@@ -28560,6 +28788,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Guide d'étude"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "دليل المذاكرة"
           }
         }
       }
@@ -28649,6 +28883,12 @@
             "state": "translated",
             "value": "Guide d'étude…"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "دليل المذاكرة…"
+          }
         }
       }
     },
@@ -28670,6 +28910,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ruban de révision"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "شريط المذاكرة"
           }
         }
       }
@@ -28742,6 +28988,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les étudier quand même"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مذاكرتها على أي حال"
           }
         }
       }
@@ -29249,6 +29501,12 @@
             "state": "translated",
             "value": "Étiqueter la page"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إضافة وسم للصفحة"
+          }
         }
       }
     },
@@ -29270,6 +29528,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Étiqueter la page…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إضافة وسم للصفحة…"
           }
         }
       }
@@ -29314,6 +29578,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pages étiquetées"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الصفحات الموسومة"
           }
         }
       }
@@ -30493,6 +30763,12 @@
             "state": "translated",
             "value": "Tout le carnet"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الدفتر بالكامل"
+          }
         }
       }
     },
@@ -30888,6 +31164,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ce carnet"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هذا الدفتر"
           }
         }
       }
