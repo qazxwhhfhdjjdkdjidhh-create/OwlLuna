@@ -15228,6 +15228,12 @@
             "state": "translated",
             "value": "Exportation annulée."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم إلغاء التصدير."
+          }
         }
       }
     },
@@ -15306,6 +15312,12 @@
             "state": "translated",
             "value": "Exporter la vidéo"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تصدير فيديو"
+          }
         }
       }
     },
@@ -15356,6 +15368,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Exportation…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جارٍ التصدير…"
           }
         }
       }
@@ -35175,6 +35193,12 @@
             "state": "translated",
             "value": "Votre image est prête."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الصورة جاهزة."
+          }
         }
       }
     },
@@ -35240,6 +35264,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Votre PDF est prêt."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ملف PDF جاهز."
           }
         }
       }
