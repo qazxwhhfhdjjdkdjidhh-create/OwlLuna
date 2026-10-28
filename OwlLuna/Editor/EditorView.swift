@@ -1,4 +1,5 @@
 import SwiftUI
+import Translation
 import Combine
 import PhotosUI
 import PencilKit
@@ -126,6 +127,11 @@ fileprivate struct EditorContent: View {
     @AppStorage(SettingsKey.leftHanded) private var leftHanded = false
     @State private var highlightColor = HighlightColor.last
     @State private var findText = ""
+    @State private var pdfTranslationConfiguration: TranslationSession.Configuration?
+    @State private var pdfTranslationSource: String?
+    @State private var pdfTranslation = ""
+    @State private var pdfTranslationFailure: String?
+    @State private var showingPDFTranslation = false
     @FocusState private var findFocused: Bool
     @ScaledMetric(relativeTo: .body) private var findWidth: CGFloat = 260
     @ScaledMetric(relativeTo: .body) private var compactFindWidth: CGFloat = 190
@@ -185,6 +191,46 @@ fileprivate struct EditorContent: View {
                 if side == .leading { AnyView(sidePanels) }
                 pageStack
                 if side == .trailing { AnyView(sidePanels) }
+            }
+            .translationTask(pdfTranslationConfiguration) { @Sendable session in
+                guard let source = pdfTranslationSource, !source.isEmpty else { return }
+                do {
+                    let response = try await session.translate(source)
+                    await MainActor.run { pdfTranslation = response.targetText }
+                } catch {
+                    if !(error is CancellationError) {
+                        await MainActor.run { pdfTranslationFailure = error.localizedDescription }
+                    }
+                }
+            }
+            .sheet(isPresented: $showingPDFTranslation) {
+                NavigationStack {
+                    ScrollView {
+                        VStack(alignment: .leading, spacing: Space.x4) {
+                            if pdfTranslation.isEmpty && pdfTranslationFailure == nil {
+                                ProgressView("Translating to Arabic…")
+                                    .frame(maxWidth: .infinity, alignment: .center)
+                            } else if let failure = pdfTranslationFailure {
+                                Text(failure).foregroundStyle(.secondary)
+                            } else {
+                                Text(pdfTranslation)
+                                    .font(.body)
+                                    .frame(maxWidth: .infinity, alignment: .trailing)
+                                    .multilineTextAlignment(.trailing)
+                                    .textSelection(.enabled)
+                            }
+                        }
+                        .padding(Space.x4)
+                    }
+                    .navigationTitle("Arabic Translation")
+                    .navigationBarTitleDisplayMode(.inline)
+                    .toolbar {
+                        ToolbarItem(placement: .confirmationAction) {
+                            Button("Done") { showingPDFTranslation = false }
+                        }
+                    }
+                }
+                .presentationDetents([.medium, .large])
             }
             .background(Color.desk.ignoresSafeArea())
             .onGeometryChange(for: CGFloat.self) { $0.size.width } action: { paneWidth = $0 }
@@ -1027,6 +1073,19 @@ fileprivate struct EditorContent: View {
                 }
                 .accessibilityValue(Text("\(text.split(whereSeparator: \.isWhitespace).count) words"))
                 .accessibilityIdentifier("editor.text.copy")
+                arrangeButton("Translate to Arabic", "translate") {
+                    pdfTranslationSource = text
+                    pdfTranslation = ""
+                    pdfTranslationFailure = nil
+                    showingPDFTranslation = true
+                    let arabic = Locale.Language(identifier: "ar")
+                    if pdfTranslationConfiguration?.target?.minimalIdentifier == arabic.minimalIdentifier {
+                        pdfTranslationConfiguration?.invalidate()
+                    } else {
+                        pdfTranslationConfiguration = TranslationSession.Configuration(source: nil, target: arabic)
+                    }
+                }
+                .accessibilityIdentifier("editor.text.translate.arabic")
                 if !document.isReadOnly {
                     arrangeButton("Highlight", "highlighter") { session.canvas?.highlightSelectedText(highlightColor) }
                         .accessibilityValue(Text(highlightColor.displayName))
