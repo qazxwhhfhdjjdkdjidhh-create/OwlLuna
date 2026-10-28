@@ -1415,6 +1415,12 @@
             "state": "translated",
             "value": "Ajout des enregistrements…"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جارٍ إضافة التسجيلات…"
+          }
         }
       }
     },
@@ -21377,7 +21383,7 @@
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "لم تتم كتابة أي حبر أثناء هذا التسجيل"
+            "value": "لم تتم كتابة أي شيء أثناء هذا التسجيل"
           }
         }
       }
@@ -21511,7 +21517,7 @@
         "ar": {
           "stringUnit": {
             "state": "translated",
-            "value": "لم يتم العثور على كلام واضح في هذا التسجيل."
+            "value": "لم يتم العثور على كلام في هذا التسجيل."
           }
         }
       }
@@ -25616,6 +25622,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L’enregistrement n’a pas pu démarrer : %@"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر بدء التسجيل: %@"
           }
         }
       }
@@ -34582,6 +34594,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ce qui a été enregistré dans ce carnet."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "التسجيلات الموجودة في هذا الدفتر."
           }
         }
       }
