@@ -10117,6 +10117,12 @@
             "state": "translated",
             "value": "Tous les carnets"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "كل الدفاتر"
+          }
         }
       }
     },
@@ -10160,6 +10166,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Un autre carnet"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "دفتر آخر"
           }
         }
       }
@@ -10315,6 +10327,12 @@
             "state": "translated",
             "value": "Apple Pencil"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Pencil"
+          }
         }
       }
     },
@@ -10336,6 +10354,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Apple Pencil uniquement"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Pencil فقط"
           }
         }
       }
@@ -10513,6 +10537,12 @@
             "state": "translated",
             "value": "Retour à la bibliothèque"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "العودة إلى المكتبة"
+          }
         }
       }
     },
@@ -10557,6 +10587,12 @@
             "state": "translated",
             "value": "Retour aux pages"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "العودة إلى الصفحات"
+          }
         }
       }
     },
@@ -10600,6 +10636,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sauvegarder la bibliothèque…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نسخ المكتبة احتياطيًا…"
           }
         }
       }
@@ -10842,6 +10884,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ajouter un signet"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إضافة الصفحة للمفضلة"
           }
         }
       }
@@ -12028,6 +12076,12 @@
             "state": "translated",
             "value": "Fermer l’autre carnet"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إغلاق الدفتر الآخر"
+          }
         }
       }
     },
@@ -12049,6 +12103,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Fermer la fenêtre de zoom"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إغلاق نافذة التكبير"
           }
         }
       }
@@ -12800,6 +12860,12 @@
             "state": "translated",
             "value": "Personnaliser les outils"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تخصيص الأدوات"
+          }
         }
       }
     },
@@ -13354,6 +13420,12 @@
             "state": "translated",
             "value": "Supprimer le dossier"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حذف المجلد"
+          }
         }
       }
     },
@@ -13397,6 +13469,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Supprimer la page"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حذف الصفحة"
           }
         }
       }
@@ -14084,6 +14162,12 @@
             "state": "translated",
             "value": "Dessiner avec"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الرسم باستخدام"
+          }
         }
       }
     },
@@ -14177,6 +14261,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dupliquer la page"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تكرار الصفحة"
           }
         }
       }
@@ -14536,6 +14626,12 @@
             "state": "translated",
             "value": "Chaque page en image…"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "كل صفحة كصورة…"
+          }
         }
       }
     },
@@ -14762,6 +14858,12 @@
             "state": "translated",
             "value": "Exporter en PDF"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تصدير كـ PDF"
+          }
         }
       }
     },
@@ -14827,6 +14929,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Exporter le PDF"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تصدير PDF"
           }
         }
       }
@@ -14995,6 +15103,12 @@
             "state": "translated",
             "value": "Rechercher dans le carnet"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بحث داخل الدفتر"
+          }
         }
       }
     },
@@ -15038,6 +15152,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Rechercher dans le carnet…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بحث داخل الدفتر…"
           }
         }
       }
@@ -15105,6 +15225,12 @@
             "state": "translated",
             "value": "Première page"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الصفحة الأولى"
+          }
         }
       }
     },
@@ -15126,6 +15252,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Première page"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الصفحة الأولى"
           }
         }
       }
@@ -15551,6 +15683,12 @@
             "state": "translated",
             "value": "Mode concentration. La barre d’outils est masquée."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "وضع التركيز. شريط الأدوات مخفي."
+          }
         }
       }
     },
@@ -15831,6 +15969,12 @@
             "state": "translated",
             "value": "Aller à la page"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الانتقال إلى صفحة"
+          }
         }
       }
     },
@@ -15852,6 +15996,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aller à la page"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الانتقال إلى صفحة"
           }
         }
       }
@@ -16051,6 +16201,12 @@
             "state": "translated",
             "value": "Écriture manuscrite en texte"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الكتابة اليدوية كنص"
+          }
         }
       }
     },
@@ -16073,6 +16229,12 @@
             "state": "translated",
             "value": "Écriture manuscrite en texte"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الكتابة اليدوية كنص"
+          }
         }
       }
     },
@@ -16094,6 +16256,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Écriture manuscrite remplacée par du texte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم استبدال الكتابة اليدوية بنص"
           }
         }
       }
@@ -16144,6 +16312,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Écriture en texte désactivée"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحويل الكتابة اليدوية إلى نص متوقف"
           }
         }
       }
@@ -16343,6 +16517,12 @@
             "state": "translated",
             "value": "Masquer les outils"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إخفاء الأدوات"
+          }
         }
       }
     },
@@ -16365,6 +16545,12 @@
             "state": "translated",
             "value": "Surligner"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تمييز"
+          }
         }
       }
     },
@@ -16386,6 +16572,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Couleur de surlignage"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لون التمييز"
           }
         }
       }
@@ -16430,6 +16622,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Surligner le texte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تمييز النص"
           }
         }
       }
@@ -16480,6 +16678,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Trait de surligneur"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "خط التمييز"
           }
         }
       }
@@ -16750,6 +16954,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Importer un PDF…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "استيراد PDF…"
           }
         }
       }
@@ -17079,6 +17289,12 @@
             "state": "translated",
             "value": "Insérer une page après"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إضافة صفحة بعد الحالية"
+          }
         }
       }
     },
@@ -17101,6 +17317,12 @@
             "state": "translated",
             "value": "Insérer un PDF"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إدراج PDF"
+          }
         }
       }
     },
@@ -17122,6 +17344,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Insérer un PDF…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إدراج PDF…"
           }
         }
       }
@@ -17651,6 +17879,12 @@
             "state": "translated",
             "value": "Langue"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اللغة"
+          }
         }
       }
     },
@@ -17788,6 +18022,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dernière page"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الصفحة الأخيرة"
           }
         }
       }
@@ -19187,6 +19427,12 @@
             "state": "translated",
             "value": "Déplacer la page"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نقل الصفحة"
+          }
         }
       }
     },
@@ -19859,6 +20105,12 @@
             "state": "translated",
             "value": "Nouveau sous-dossier"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مجلد جديد بالداخل"
+          }
         }
       }
     },
@@ -19908,6 +20160,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Nouveaux carnets"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "دفاتر جديدة"
           }
         }
       }
@@ -20151,6 +20409,12 @@
             "state": "translated",
             "value": "Page suivante"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الصفحة التالية"
+          }
         }
       }
     },
@@ -20349,6 +20613,12 @@
             "state": "translated",
             "value": "Aucune note pour cette page."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا توجد ملاحظات لهذه الصفحة."
+          }
         }
       }
     },
@@ -20370,6 +20640,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aucun autre carnet"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا توجد دفاتر أخرى"
           }
         }
       }
@@ -20679,6 +20955,12 @@
             "state": "translated",
             "value": "carnet"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "دفتر"
+          }
         }
       }
     },
@@ -20729,6 +21011,12 @@
             "state": "translated",
             "value": "CARNET"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "دفتر"
+          }
         }
       }
     },
@@ -20750,6 +21038,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Carnet en PDF…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الدفتر كملف PDF…"
           }
         }
       }
@@ -21399,6 +21693,12 @@
             "state": "translated",
             "value": "Pour l’instant, seul l’Apple Pencil dessine."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الرسم متاح حاليًا باستخدام Apple Pencil فقط."
+          }
         }
       }
     },
@@ -21493,6 +21793,12 @@
             "state": "translated",
             "value": "Ouvrir un autre carnet à côté…"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح دفتر آخر بجانبه…"
+          }
         }
       }
     },
@@ -21515,6 +21821,12 @@
             "state": "translated",
             "value": "Ouvrir un autre carnet dans un onglet"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح دفتر آخر في تبويب"
+          }
         }
       }
     },
@@ -21536,6 +21848,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvrir un autre carnet dans un onglet…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح دفتر آخر في تبويب…"
           }
         }
       }
@@ -21647,6 +21965,12 @@
             "state": "translated",
             "value": "Ouvrir le carnet"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح الدفتر"
+          }
         }
       }
     },
@@ -21669,6 +21993,12 @@
             "state": "translated",
             "value": "Carnets ouverts"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح الدفاتر"
+          }
         }
       }
     },
@@ -21690,6 +22020,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvrir la page du jour du journal"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح صفحة يوميات اليوم"
           }
         }
       }
@@ -22939,6 +23275,12 @@
             "state": "translated",
             "value": "Pencil et doigt"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "القلم والإصبع"
+          }
         }
       }
     },
@@ -23622,6 +23964,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Page précédente"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الصفحة السابقة"
           }
         }
       }
@@ -26868,6 +27216,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Afficher les outils"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إظهار الأدوات"
           }
         }
       }
@@ -33528,6 +33882,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Fenêtre de zoom"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نافذة التكبير"
           }
         }
       }
