@@ -14276,6 +14276,12 @@
             "state": "translated",
             "value": "Toucher deux fois"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "النقر المزدوج"
+          }
         }
       }
     },
@@ -18500,6 +18506,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dernière ouverture"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "آخر فتح"
           }
         }
       }
@@ -27381,6 +27393,12 @@
             "state": "translated",
             "value": "Effacer par gribouillage"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المسح بالشخبطة"
+          }
         }
       }
     },
@@ -27402,6 +27420,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Gribouiller pour effacer"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اشخبط للمسح"
           }
         }
       }
@@ -28749,6 +28773,12 @@
             "state": "translated",
             "value": "Aligner le surligneur"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "محاذاة قلم التمييز"
+          }
         }
       }
     },
@@ -29070,6 +29100,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Presser"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الضغط على القلم"
           }
         }
       }
@@ -30418,6 +30454,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Réglage système"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إعداد النظام"
           }
         }
       }
