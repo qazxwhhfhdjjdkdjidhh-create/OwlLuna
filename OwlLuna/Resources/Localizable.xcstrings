@@ -9891,6 +9891,12 @@
             "state": "translated",
             "value": "« %@ » ajouté aux favoris"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تمت إضافة «%@» إلى المفضلة"
+          }
         }
       }
     },
@@ -10098,6 +10104,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ajoute cette étiquette"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إضافة هذا الوسم"
           }
         }
       }
@@ -22389,6 +22401,12 @@
             "state": "translated",
             "value": "Rien avec l’étiquette « %@ »."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا يوجد شيء بالوسم «%@»."
+          }
         }
       }
     },
@@ -26355,6 +26373,12 @@
             "state": "translated",
             "value": "« %@ » retiré des favoris"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تمت إزالة «%@» من المفضلة"
+          }
         }
       }
     },
@@ -26452,6 +26476,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Retire cette étiquette"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إزالة هذا الوسم"
           }
         }
       }
@@ -28680,6 +28710,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Affiche ce qui porte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يعرض العناصر الموسومة بـ"
           }
         }
       }
@@ -35664,6 +35700,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Votre étagère est prête."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الرف جاهز."
           }
         }
       }
