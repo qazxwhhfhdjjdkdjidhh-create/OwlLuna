@@ -35,7 +35,7 @@ permissions:
 jobs:
   test:
     name: Build and tests (iPadOS ${{ matrix.ios }})
-    # Xcode 27 preview image. There is no macos-27 label yet (October 2026); switch once it is generally available.
+    # Xcode 27 GitHub-hosted image (GA as of October 2026).
     runs-on: xcode-27
     timeout-minutes: 75
     strategy:
