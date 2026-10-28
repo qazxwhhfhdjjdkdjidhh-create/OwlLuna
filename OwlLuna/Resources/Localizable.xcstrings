@@ -1579,6 +1579,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "كل الصفحات (%lld)"
+          }
         }
       }
     },
@@ -2021,6 +2027,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تصدير %lld صفحة"
+          }
         }
       }
     },
@@ -2118,6 +2130,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Exporter la page %lld"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تصدير الصفحة %lld"
           }
         }
       }
@@ -6399,6 +6417,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld نتيجة"
+          }
         }
       }
     },
@@ -7651,6 +7675,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld صفحة"
+          }
         }
       }
     },
@@ -8231,6 +8261,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم تحديد %lld"
+          }
         }
       }
     },
@@ -8535,6 +8571,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld خط"
+          }
         }
       }
     },
@@ -8762,6 +8804,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld كلمة"
           }
         }
       }
@@ -10648,6 +10696,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Retour à la page %lld"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "العودة إلى الصفحة %lld"
           }
         }
       }
@@ -21127,6 +21181,12 @@
             "state": "translated",
             "value": "Page suivante, page %lld"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الصفحة التالية، صفحة %lld"
+          }
         }
       }
     },
@@ -21858,6 +21918,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "دفتر، %lld صفحة"
           }
         }
       }
@@ -23391,6 +23457,12 @@
             "state": "translated",
             "value": "Page %lld"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "صفحة %lld"
+          }
         }
       }
     },
@@ -23474,6 +23546,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Page %1$lld sur %2$lld"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "صفحة %lld من %lld"
           }
         }
       }
@@ -25150,6 +25228,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Question %lld"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "السؤال %lld"
           }
         }
       }
@@ -29986,6 +30070,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ruban de révision page %lld"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "شريط مذاكرة في الصفحة %lld"
           }
         }
       }
