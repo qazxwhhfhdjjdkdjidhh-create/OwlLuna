@@ -1629,6 +1629,12 @@
             "state": "translated",
             "value": "Puces"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نقاط"
+          }
         }
       }
     },
@@ -2352,6 +2358,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Italique"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مائل"
           }
         }
       }
@@ -10913,6 +10925,12 @@
             "state": "translated",
             "value": "Gras"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "عريض"
+          }
         }
       }
     },
@@ -11784,6 +11802,12 @@
             "state": "translated",
             "value": "Liste à cocher"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قائمة تحقق"
+          }
         }
       }
     },
@@ -11961,6 +11985,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Effacer le texte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مسح النص"
           }
         }
       }
@@ -14699,6 +14729,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Modifier le texte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعديل النص"
           }
         }
       }
@@ -27677,6 +27713,12 @@
             "state": "translated",
             "value": "Sélectionner du texte"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحديد النص"
+          }
         }
       }
     },
@@ -30985,6 +31027,12 @@
             "state": "translated",
             "value": "Texte surligné"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم تمييز النص"
+          }
         }
       }
     },
@@ -31006,6 +31054,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Style de texte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نمط النص"
           }
         }
       }
@@ -32335,6 +32389,12 @@
             "state": "translated",
             "value": "Cette page n’a pas de texte à sélectionner"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا يوجد نص قابل للتحديد في هذه الصفحة"
+          }
         }
       }
     },
@@ -33598,6 +33658,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Convertir en texte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحويل إلى نص"
           }
         }
       }
