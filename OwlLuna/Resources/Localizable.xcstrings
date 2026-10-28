@@ -1727,6 +1727,12 @@
             "state": "translated",
             "value": "Cercle"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "دائرة"
+          }
         }
       }
     },
@@ -10441,6 +10447,12 @@
             "state": "translated",
             "value": "Flèche"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "سهم"
+          }
         }
       }
     },
@@ -10462,6 +10474,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "flèche"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "سهم"
           }
         }
       }
@@ -11165,6 +11183,12 @@
             "state": "translated",
             "value": "Plume de calligraphie"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قلم خط"
+          }
         }
       }
     },
@@ -11488,6 +11512,12 @@
             "state": "translated",
             "value": "Modifier le stylo"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تغيير القلم"
+          }
         }
       }
     },
@@ -11575,6 +11605,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Modifier la largeur"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تغيير السمك"
           }
         }
       }
@@ -11824,6 +11860,12 @@
             "state": "translated",
             "value": "cercle"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "دائرة"
+          }
         }
       }
     },
@@ -11846,6 +11888,12 @@
             "state": "translated",
             "value": "Entourer et maintenir pour sélectionner"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ارسم دائرة وثبّت للتحديد"
+          }
         }
       }
     },
@@ -11867,6 +11915,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Entourer pour sélectionner"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ارسم دائرة للتحديد"
           }
         }
       }
@@ -12570,6 +12624,12 @@
             "state": "translated",
             "value": "Impossible de lire l’encre"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر قراءة الكتابة"
+          }
         }
       }
     },
@@ -12763,6 +12823,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Crayon de cire"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قلم شمع"
           }
         }
       }
@@ -13592,6 +13658,12 @@
             "state": "translated",
             "value": "Supprimer l’encre"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حذف الحبر"
+          }
         }
       }
     },
@@ -14395,6 +14467,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dupliquer l’encre"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تكرار الحبر"
           }
         }
       }
@@ -15371,6 +15449,12 @@
             "state": "translated",
             "value": "Feutre fin"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قلم رفيع"
+          }
         }
       }
     },
@@ -15974,6 +16058,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Stylo-plume"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قلم حبر"
           }
         }
       }
@@ -17433,6 +17523,12 @@
             "state": "translated",
             "value": "Encre"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الحبر"
+          }
         }
       }
     },
@@ -17454,6 +17550,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Encres"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الأحبار"
           }
         }
       }
@@ -18505,6 +18607,12 @@
             "state": "translated",
             "value": "Dessiner au doigt"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "السماح بالرسم بالأصابع"
+          }
         }
       }
     },
@@ -18831,6 +18939,12 @@
             "state": "translated",
             "value": "Lien vers"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "رابط إلى"
+          }
         }
       }
     },
@@ -18940,6 +19054,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lien…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "رابط…"
           }
         }
       }
@@ -19568,6 +19688,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Déplacer l’encre"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نقل الحبر"
           }
         }
       }
@@ -20471,6 +20597,12 @@
             "state": "translated",
             "value": "Nouveau stylo"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قلم جديد"
+          }
         }
       }
     },
@@ -20834,6 +20966,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aucune encre sélectionnée"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم يتم تحديد حبر"
           }
         }
       }
@@ -22171,6 +22309,12 @@
             "state": "translated",
             "value": "Ouvrir à côté"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح بجانبه"
+          }
         }
       }
     },
@@ -22192,6 +22336,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvrir dans un onglet"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح في تبويب"
           }
         }
       }
@@ -22242,6 +22392,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ouvrir le lien"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح الرابط"
           }
         }
       }
@@ -23441,6 +23597,12 @@
             "state": "translated",
             "value": "Partie d’un trait"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جزء من الخط"
+          }
         }
       }
     },
@@ -23563,6 +23725,12 @@
             "state": "translated",
             "value": "Options du stylo"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "خيارات القلم"
+          }
         }
       }
     },
@@ -23584,6 +23752,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Plumier"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "شريط الأقلام"
           }
         }
       }
@@ -23662,6 +23836,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Calligraphie"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحسين الخط"
           }
         }
       }
@@ -25325,6 +25505,12 @@
             "state": "translated",
             "value": "rectangle"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مستطيل"
+          }
         }
       }
     },
@@ -25793,6 +25979,12 @@
             "state": "translated",
             "value": "Renommer le lien"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إعادة تسمية الرابط"
+          }
         }
       }
     },
@@ -25997,6 +26189,12 @@
             "state": "translated",
             "value": "Relecture avec l’encre"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إعادة التشغيل مع الحبر"
+          }
         }
       }
     },
@@ -26085,6 +26283,12 @@
             "state": "translated",
             "value": "Réinitialiser le plumier"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إعادة ضبط شريط الأقلام"
+          }
         }
       }
     },
@@ -26106,6 +26310,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Réinitialiser le plumier…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إعادة ضبط شريط الأقلام…"
           }
         }
       }
@@ -27061,6 +27271,12 @@
             "state": "translated",
             "value": "Sélectionner l’encre"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحديد الحبر"
+          }
         }
       }
     },
@@ -27364,6 +27580,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "forme"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "شكل"
           }
         }
       }
@@ -28939,6 +29161,12 @@
             "state": "translated",
             "value": "Redresser la forme"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تسوية الشكل"
+          }
         }
       }
     },
@@ -28960,6 +29188,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Redresser les formes"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تسوية الأشكال"
           }
         }
       }
@@ -29602,6 +29836,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Passer à la gomme"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "التبديل إلى الممحاة"
           }
         }
       }
@@ -32299,6 +32539,12 @@
             "state": "translated",
             "value": "Palette d’outils"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لوحة الأدوات"
+          }
         }
       }
     },
@@ -32320,6 +32566,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Palette d’outils près du Pencil"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لوحة الأدوات عند القلم"
           }
         }
       }
@@ -32797,6 +33049,12 @@
             "state": "translated",
             "value": "triangle"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مثلث"
+          }
         }
       }
     },
@@ -32862,6 +33120,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Convertir l’encre en texte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحويل الحبر إلى نص"
           }
         }
       }
@@ -33719,6 +33983,12 @@
             "state": "translated",
             "value": "Traits entiers"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "خطوط كاملة"
+          }
         }
       }
     },
@@ -33790,6 +34060,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Épaisseur"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "السمك"
           }
         }
       }
