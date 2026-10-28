@@ -207,6 +207,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld بطاقة"
+          }
         }
       }
     },
@@ -283,6 +289,12 @@
               }
             }
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld بطاقة للمراجعة"
+          }
         }
       }
     },
@@ -304,6 +316,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "%lld à revoir aujourd'hui"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld مستحقة اليوم"
           }
         }
       }
@@ -380,6 +398,12 @@
                 }
               }
             }
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم إنشاء %lld بطاقة مراجعة"
           }
         }
       }
@@ -9133,6 +9157,12 @@
             "state": "translated",
             "value": "Un extrait de la page"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قصاصة من الصفحة"
+          }
         }
       }
     },
@@ -9309,6 +9339,12 @@
             "state": "translated",
             "value": "Une page imprimée à la date de chaque jour, d’un simple toucher."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "صفحة بتاريخ كل يوم يمكنك الوصول إليها بضغطة واحدة."
+          }
         }
       }
     },
@@ -9330,6 +9366,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Une page, un autre tableau blanc, une image, une zone de texte, un autocollant ou un lien."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "صفحة أو سبورة أخرى أو صورة أو مربع نص أو ملصق أو رابط."
           }
         }
       }
@@ -9402,6 +9444,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Un tableau blanc est une page sans bords. Écrivez dans n’importe quelle direction, il continue."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "السبورة صفحة بلا حواف. اكتب في أي اتجاه وستمتد معك."
           }
         }
       }
@@ -9901,6 +9949,12 @@
             "state": "translated",
             "value": "Ajoutez du texte, si vous voulez"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أضف كلمات إذا أردت"
+          }
         }
       }
     },
@@ -10193,6 +10247,12 @@
             "state": "translated",
             "value": "À revoir"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مرة أخرى"
+          }
         }
       }
     },
@@ -10214,6 +10274,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Alignement"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المحاذاة"
           }
         }
       }
@@ -10237,6 +10303,12 @@
             "state": "translated",
             "value": "Tout est à jour"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أنت على الموعد"
+          }
         }
       }
     },
@@ -10259,6 +10331,12 @@
             "state": "translated",
             "value": "Tout est à jour."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا توجد مراجعات مستحقة."
+          }
         }
       }
     },
@@ -10280,6 +10358,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Toute la journée"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "طوال اليوم"
           }
         }
       }
@@ -10453,6 +10537,12 @@
             "state": "translated",
             "value": "Icône de l’app"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أيقونة التطبيق"
+          }
         }
       }
     },
@@ -10502,6 +10592,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Apple Intelligence est encore en préparation sur cet iPad. Réessayez dans un moment."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا يزال Apple Intelligence قيد التجهيز على هذا الـ iPad. حاول مرة أخرى بعد قليل."
           }
         }
       }
@@ -10581,6 +10677,12 @@
             "state": "translated",
             "value": "Disposition"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ترتيب"
+          }
         }
       }
     },
@@ -10659,6 +10761,12 @@
             "state": "translated",
             "value": "En bas"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "في الأسفل"
+          }
         }
       }
     },
@@ -10680,6 +10788,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "En haut"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "في الأعلى"
           }
         }
       }
@@ -10831,6 +10945,12 @@
             "state": "translated",
             "value": "Retour à l’écriture"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "العودة للكتابة"
+          }
         }
       }
     },
@@ -10931,6 +11051,12 @@
             "state": "translated",
             "value": "Noir"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أسود"
+          }
         }
       }
     },
@@ -10953,6 +11079,12 @@
             "state": "translated",
             "value": "Vierge"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فارغ"
+          }
         }
       }
     },
@@ -10974,6 +11106,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Bleu"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أزرق"
           }
         }
       }
@@ -11231,6 +11369,12 @@
             "state": "translated",
             "value": "Bord inférieur"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الحافة السفلية"
+          }
         }
       }
     },
@@ -11252,6 +11396,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Avancer d’un plan"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إحضار للأمام"
           }
         }
       }
@@ -11296,6 +11446,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Marron"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بني"
           }
         }
       }
@@ -11454,6 +11610,12 @@
             "state": "translated",
             "value": "Carte %1$lld sur %2$lld"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "البطاقة %lld من %lld"
+          }
         }
       }
     },
@@ -11475,6 +11637,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Options de la carte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "خيارات البطاقة"
           }
         }
       }
@@ -11498,6 +11666,12 @@
             "state": "translated",
             "value": "Cartes"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "البطاقات"
+          }
         }
       }
     },
@@ -11520,6 +11694,12 @@
             "state": "translated",
             "value": "Les cartes reviennent ici quand il est temps de les revoir."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ستعود البطاقات هنا عندما يحين موعد مراجعتها."
+          }
         }
       }
     },
@@ -11541,6 +11721,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Centre"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "توسيط"
           }
         }
       }
@@ -11782,6 +11968,12 @@
             "state": "translated",
             "value": "Modifier la hauteur"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تغيير الارتفاع"
+          }
         }
       }
     },
@@ -11904,6 +12096,12 @@
             "state": "translated",
             "value": "Anthracite"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فحمي"
+          }
         }
       }
     },
@@ -11947,6 +12145,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Vérifiez l’orthographe ou essayez d’autres mots."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحقق من الكتابة أو جرّب كلمات أخرى."
           }
         }
       }
@@ -12266,6 +12470,12 @@
             "state": "translated",
             "value": "Extrait"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قصاصة"
+          }
         }
       }
     },
@@ -12309,6 +12519,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Extrait de la page"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قصاصة من الصفحة"
           }
         }
       }
@@ -12382,6 +12598,12 @@
             "state": "translated",
             "value": "Fermer quand même"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إغلاق على أي حال"
+          }
         }
       }
     },
@@ -12404,6 +12626,12 @@
             "state": "translated",
             "value": "Fermer les autres onglets"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إغلاق التبويبات الأخرى"
+          }
         }
       }
     },
@@ -12425,6 +12653,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Fermer l’onglet"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إغلاق التبويب"
           }
         }
       }
@@ -12592,6 +12826,12 @@
             "state": "translated",
             "value": "Cobalt"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "كوبالت"
+          }
         }
       }
     },
@@ -12664,6 +12904,12 @@
             "state": "translated",
             "value": "Sommaire"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المحتويات"
+          }
         }
       }
     },
@@ -12686,6 +12932,12 @@
             "state": "translated",
             "value": "Continuer à écrire"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "متابعة الكتابة"
+          }
         }
       }
     },
@@ -12707,6 +12959,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Continuer à écrire"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "متابعة الكتابة"
           }
         }
       }
@@ -12757,6 +13015,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Copié"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم النسخ"
           }
         }
       }
@@ -12892,6 +13156,12 @@
             "state": "translated",
             "value": "Impossible d’enregistrer vos dernières modifications. OwlLuna va réessayer ; rien n’a été perdu."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر حفظ أحدث تغييراتك. سيواصل OwlLuna المحاولة ولم يتم فقد أي شيء."
+          }
         }
       }
     },
@@ -12942,6 +13212,12 @@
             "state": "translated",
             "value": "Écriture impossible"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر كتابة هذا"
+          }
         }
       }
     },
@@ -12991,6 +13267,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Couvrez une réponse avec du ruban de révision et créez une carte à partir de la bande, sélectionnez de l'écriture pour en faire une, ou écrivez une carte vous-même. Chacune revient quand il est temps de la revoir."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "غطِّ الإجابة بشريط المذاكرة وأنشئ بطاقة منه، أو حدد كتابة يدوية وحولها إلى بطاقة، أو اكتب بطاقة بنفسك. ستعود كل بطاقة عندما يحين موعد مراجعتها."
           }
         }
       }
