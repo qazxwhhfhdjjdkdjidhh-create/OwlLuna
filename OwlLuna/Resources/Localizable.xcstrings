@@ -10065,6 +10065,12 @@
             "state": "translated",
             "value": "Ajoute une page après la page %lld"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إضافة صفحة بعد الصفحة %lld"
+          }
         }
       }
     },
@@ -11863,6 +11869,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Modifie la page %lld"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تغيير الصفحة %lld"
           }
         }
       }
@@ -20581,6 +20593,12 @@
             "state": "translated",
             "value": "Déplacement vers la page %lld"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم النقل إلى الصفحة %lld"
+          }
         }
       }
     },
@@ -23966,6 +23984,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Page supprimée. %@"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم حذف الصفحة. %@"
           }
         }
       }
