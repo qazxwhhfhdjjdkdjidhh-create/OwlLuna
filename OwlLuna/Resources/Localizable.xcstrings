@@ -14538,6 +14538,12 @@
             "state": "translated",
             "value": "Entourez de l’encre sur n’importe quelle page"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ارسم حول الكتابة في أي صفحة"
+          }
         }
       }
     },
@@ -14559,6 +14565,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Entourez l’encre, puis faites-la glisser ailleurs."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ارسم حول الكتابة ثم اسحبها إلى مكان آخر."
           }
         }
       }
@@ -16886,6 +16898,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Écriture en texte activée. Ce que vous écrivez au stylo devient du texte dès que vous marquez une pause."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحويل الكتابة اليدوية إلى نص مفعّل. ما تكتبه بالقلم يتحول إلى نص عند التوقف قليلًا."
           }
         }
       }
@@ -22218,6 +22236,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Rien dans l’encre sélectionnée n’a pu être lu comme de l’écriture. Essayez de sélectionner des mots ou des lignes entiers."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر قراءة الكتابة المحددة. حاول تحديد كلمات أو سطور كاملة."
           }
         }
       }
@@ -27939,6 +27963,12 @@
             "state": "translated",
             "value": "Sélection d’encre. Entourez de l’encre sur n’importe quelle page, puis faites-la glisser."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جارٍ تحديد الكتابة. ارسم حولها في أي صفحة ثم اسحبها."
+          }
         }
       }
     },
@@ -28032,6 +28062,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Converti en texte : %@"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحويل إلى نص: %@"
           }
         }
       }
@@ -31488,6 +31524,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La reconnaissance d’écriture n’a pas répondu. Réessayez dans un instant."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم يستجب نظام التعرف على الكتابة اليدوية. حاول مرة أخرى بعد قليل."
           }
         }
       }
@@ -35061,6 +35103,12 @@
             "state": "translated",
             "value": "Écrivez dans n’importe quelle direction. Faites glisser à deux doigts pour vous déplacer et pincez pour zoomer."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اكتب في أي اتجاه. اسحب بإصبعين للتحريك وقرّب أو باعد للتكبير."
+          }
         }
       }
     },
@@ -35772,6 +35820,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Fenêtre de zoom ouverte. Écrivez dans la bande du bas."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نافذة التكبير مفتوحة. اكتب في الشريط الموجود بالأسفل."
           }
         }
       }
