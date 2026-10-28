@@ -743,7 +743,16 @@ final class PageStackController: UIViewController, UIScrollViewDelegate, PKCanva
                 if slot.canvas == nil, slot.card == nil { attachCanvas(page, to: slot) }
             }
             document.pinInk(keep.union(zoomWindow.map { [$0.pageID] } ?? []))
-            let prefetch = isSolo ? window : max(0, visible.lowerBound - 3)...min(count - 1, visible.upperBound + 3)
+            let prefetch: ClosedRange<Int>
+            if isSolo {
+                prefetch = window
+            } else {
+                // Bias ink prefetch toward where the reader is moving instead of
+                // spending equal I/O behind and ahead of a fast scroll.
+                let behind = scrollDirection < 0 ? 5 : 2
+                let ahead = scrollDirection > 0 ? 5 : 2
+                prefetch = max(0, visible.lowerBound - behind)...min(count - 1, visible.upperBound + ahead)
+            }
             document.prefetchInk(pages[prefetch].map(\.id))
         }
         let density = paperDensity()
