@@ -7,7 +7,7 @@ import PencilKit
 @MainActor
 final class PerformanceBaselineTests: XCTestCase {
     private func requirePerfRun() throws {
-        try XCTSkipUnless(ProcessInfo.processInfo.environment["OWLLUNA_PERF"] == "1", "Set OWLLUNA_PERF=1 to run")
+        try XCTSkipUnless(ProcessInfo.processInfo.environment["OWLLUNA_PERF"] == "1" || ProcessInfo.processInfo.environment["TEST_RUNNER_OWLLUNA_PERF"] == "1", "Set OWLLUNA_PERF=1 to run")
     }
 
     private func hostWindow() throws -> UIWindow {
