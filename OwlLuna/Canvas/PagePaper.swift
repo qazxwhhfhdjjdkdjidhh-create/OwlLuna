@@ -62,7 +62,9 @@ final class PagePaperView: UIView {
         let queue = OperationQueue()
         queue.name = "com.owais.OwlLuna.paper"
         queue.qualityOfService = .userInitiated
-        queue.maxConcurrentOperationCount = max(2, ProcessInfo.processInfo.activeProcessorCount / 2)
+        // PDF rasterisation is CPU-heavy. Leaving cores for scrolling and PencilKit keeps
+        // touch/scroll delivery smooth on older iPads while still rendering ahead.
+        queue.maxConcurrentOperationCount = min(3, max(2, ProcessInfo.processInfo.activeProcessorCount / 3))
         return queue
     }()
 
