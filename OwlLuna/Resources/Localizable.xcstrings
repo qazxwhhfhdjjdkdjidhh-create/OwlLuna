@@ -11676,6 +11676,12 @@
             "state": "translated",
             "value": "Changez le papier, recherchez des mots, créez des cartes mémoire, présentez et choisissez ce qui dessine."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "غيّر الورق، وابحث عن الكلمات، وأنشئ بطاقات مراجعة، واعرض الصفحة واختر أدوات الرسم."
+          }
         }
       }
     },
@@ -13023,6 +13029,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Créez un carnet pour commencer à écrire, ou importez un PDF à annoter."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أنشئ دفترًا للبدء في الكتابة، أو استورد ملف PDF للكتابة والتعليق عليه."
           }
         }
       }
@@ -14387,6 +14399,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Faites glisser sur les mots d’une page PDF"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اسحب فوق كلمات صفحة PDF"
           }
         }
       }
@@ -21337,6 +21355,12 @@
             "state": "translated",
             "value": "Rien n’a été écrit pendant cet enregistrement"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم تتم كتابة أي حبر أثناء هذا التسجيل"
+          }
         }
       }
     },
@@ -21464,6 +21488,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Aucune parole n’a été trouvée dans cet enregistrement."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم يتم العثور على كلام واضح في هذا التسجيل."
           }
         }
       }
@@ -22530,6 +22560,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Un seul carnet peut enregistrer à la fois. Arrêtez d’abord l’autre enregistrement."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "يمكن لدفتر واحد فقط التسجيل في نفس الوقت. أوقف التسجيل الآخر أولًا."
           }
         }
       }
@@ -27925,6 +27961,12 @@
             "state": "translated",
             "value": "Sélection de texte. Faites glisser sur les mots d’une page PDF."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جارٍ تحديد النص. اسحب فوق كلمات صفحة PDF."
+          }
         }
       }
     },
@@ -30909,6 +30951,12 @@
             "state": "translated",
             "value": "Touchez le micro pour enregistrer un cours ou une réunion en même temps que vos notes."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اضغط على الميكروفون لتسجيل المحاضرة أو الاجتماع بجانب ملاحظاتك."
+          }
         }
       }
     },
@@ -31865,6 +31913,12 @@
             "state": "translated",
             "value": "L’enregistrement n’a pas pu être transcrit : %@"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر تحويل التسجيل إلى نص: %@"
+          }
         }
       }
     },
@@ -32688,6 +32742,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cet enregistrement n’a pas pu être lu."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر تشغيل هذا التسجيل."
           }
         }
       }
