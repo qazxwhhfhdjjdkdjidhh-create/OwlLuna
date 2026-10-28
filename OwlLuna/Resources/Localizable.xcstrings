@@ -11966,6 +11966,12 @@
             "state": "translated",
             "value": "Effacer l’historique d’écriture"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مسح سجل الكتابة"
+          }
         }
       }
     },
@@ -11987,6 +11993,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Effacer l’historique d’écriture…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مسح سجل الكتابة…"
           }
         }
       }
@@ -17051,6 +17063,12 @@
             "state": "translated",
             "value": "iCloud est injoignable"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر الوصول إلى iCloud"
+          }
         }
       }
     },
@@ -17182,6 +17200,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Le stockage iCloud est plein"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مساحة iCloud ممتلئة"
           }
         }
       }
@@ -17955,6 +17979,12 @@
             "state": "translated",
             "value": "Conserver une copie de vos carnets dans iCloud ?"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الاحتفاظ بنسخة من دفاترك في iCloud؟"
+          }
         }
       }
     },
@@ -17998,6 +18028,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Conserver les carnets supprimés pendant"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الاحتفاظ بالدفاتر المحذوفة لمدة"
           }
         }
       }
@@ -18070,6 +18106,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Conserver l’historique d’écriture"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الاحتفاظ بسجل الكتابة"
           }
         }
       }
@@ -19149,6 +19191,12 @@
             "state": "translated",
             "value": "Verrouiller…"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "قفل…"
+          }
         }
       }
     },
@@ -19170,6 +19218,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "verrouillé"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مقفل"
           }
         }
       }
@@ -24683,6 +24737,12 @@
             "state": "translated",
             "value": "Politique de confidentialité"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "سياسة الخصوصية"
+          }
         }
       }
     },
@@ -25649,6 +25709,12 @@
             "state": "translated",
             "value": "Retirer le verrouillage…"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إزالة القفل…"
+          }
         }
       }
     },
@@ -26416,6 +26482,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Restaurer à partir d’une sauvegarde…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "استعادة من نسخة احتياطية…"
           }
         }
       }
@@ -27636,6 +27708,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Partager à nouveau la sauvegarde"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مشاركة النسخة الاحتياطية مجددًا"
           }
         }
       }
@@ -29023,6 +29101,12 @@
             "state": "translated",
             "value": "Envoi vers iCloud en cours"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا يزال الرفع إلى iCloud جاريًا"
+          }
         }
       }
     },
@@ -29865,6 +29949,12 @@
             "state": "translated",
             "value": "Synchroniser maintenant"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المزامنة الآن"
+          }
         }
       }
     },
@@ -29886,6 +29976,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Synchronisation interrompue"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "توقفت المزامنة"
           }
         }
       }
@@ -29909,6 +30005,12 @@
             "state": "translated",
             "value": "Synchroniser avec iCloud"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المزامنة مع iCloud"
+          }
         }
       }
     },
@@ -29930,6 +30032,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Synchroniser avec ce compte"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المزامنة مع هذا الحساب"
           }
         }
       }
@@ -31785,6 +31893,12 @@
             "state": "translated",
             "value": "Ce carnet est verrouillé, ses pages ne sont donc pas affichées ici."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هذا الدفتر مقفل، لذلك لا تظهر صفحاته هنا."
+          }
         }
       }
     },
@@ -31960,6 +32074,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ce PDF est protégé par un mot de passe. Déverrouillez-le dans Fichiers ou Aperçu, puis importez-le à nouveau."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ملف PDF محمي بكلمة مرور. افتح حمايته في تطبيق الملفات أو Preview ثم استورده مجددًا."
           }
         }
       }
@@ -33193,6 +33313,12 @@
             "state": "translated",
             "value": "Désactiver la synchronisation"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إيقاف المزامنة"
+          }
         }
       }
     },
@@ -33353,6 +33479,12 @@
             "state": "translated",
             "value": "Déverrouiller"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح القفل"
+          }
         }
       }
     },
@@ -33396,6 +33528,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Déverrouillez-le avec Face ID, Touch ID ou le code de cet iPad."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "افتحه باستخدام Face ID أو Touch ID أو رمز دخول الـ iPad."
           }
         }
       }
@@ -34314,6 +34452,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Historique d’écriture"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "سجل الكتابة"
           }
         }
       }
