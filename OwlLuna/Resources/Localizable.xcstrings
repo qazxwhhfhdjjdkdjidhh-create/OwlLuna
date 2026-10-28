@@ -9105,6 +9105,12 @@
             "state": "translated",
             "value": "Une modification n’a pas pu être enregistrée : %@"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر حفظ تغيير: %@"
+          }
         }
       }
     },
@@ -19954,6 +19960,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Page manquante"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "صفحة مفقودة"
           }
         }
       }
@@ -31657,6 +31669,12 @@
             "state": "translated",
             "value": "Le fichier ne contient aucune page."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الملف لا يحتوي على صفحات."
+          }
         }
       }
     },
@@ -32005,6 +32023,12 @@
             "state": "translated",
             "value": "Les fichiers du carnet sont introuvables."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر العثور على ملفات الدفتر."
+          }
         }
       }
     },
@@ -32026,6 +32050,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Les fichiers du carnet n’ont pas pu être lus."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذرت قراءة ملفات الدفتر."
           }
         }
       }
@@ -32734,6 +32764,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ce carnet n’a pas pu être ouvert"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر فتح هذا الدفتر"
           }
         }
       }
