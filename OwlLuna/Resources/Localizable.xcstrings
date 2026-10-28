@@ -2681,6 +2681,12 @@
             "state": "translated",
             "value": "Avec papier"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الورق مفعّل"
+          }
         }
       }
     },
@@ -9281,6 +9287,12 @@
             "state": "translated",
             "value": "A4"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A4"
+          }
         }
       }
     },
@@ -9299,6 +9311,12 @@
           }
         },
         "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A5"
+          }
+        },
+        "ar": {
           "stringUnit": {
             "state": "translated",
             "value": "A5"
@@ -11358,6 +11376,12 @@
             "state": "translated",
             "value": "Changer la couverture"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تغيير الغلاف"
+          }
         }
       }
     },
@@ -11379,6 +11403,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Changer la couverture…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تغيير الغلاف…"
           }
         }
       }
@@ -11402,6 +11432,12 @@
             "state": "translated",
             "value": "Changer le papier"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تغيير الورق"
+          }
         }
       }
     },
@@ -11423,6 +11459,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Changer le papier…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تغيير الورق…"
           }
         }
       }
@@ -11731,6 +11773,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Choisir le papier…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اختيار الورق…"
           }
         }
       }
@@ -12278,6 +12326,12 @@
             "state": "translated",
             "value": "Couleur"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اللون"
+          }
         }
       }
     },
@@ -12487,6 +12541,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cornell"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "كورنيل"
           }
         }
       }
@@ -12858,6 +12918,12 @@
             "state": "translated",
             "value": "Taille actuelle"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الحجم الحالي"
+          }
         }
       }
     },
@@ -12879,6 +12945,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Couleur personnalisée"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لون مخصص"
           }
         }
       }
@@ -13117,6 +13189,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Agenda journalier"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مخطط يومي"
           }
         }
       }
@@ -13991,6 +14069,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pointillé"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "منقط"
           }
         }
       }
@@ -16243,6 +16327,12 @@
             "state": "translated",
             "value": "Quadrillé"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "شبكة"
+          }
         }
       }
     },
@@ -16264,6 +16354,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Quadrillages"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "شبكات"
           }
         }
       }
@@ -18054,6 +18150,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Couleur du laser"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لون مؤشر الليزر"
           }
         }
       }
@@ -19935,6 +20037,12 @@
             "state": "translated",
             "value": "Musique"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "موسيقى"
+          }
         }
       }
     },
@@ -19956,6 +20064,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Portées musicales"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نوتة موسيقية"
           }
         }
       }
@@ -20138,6 +20252,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lignes étroites"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مسطر ضيق"
           }
         }
       }
@@ -22229,6 +22349,12 @@
             "state": "translated",
             "value": "Ouvrir le tableau blanc"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فتح السبورة"
+          }
         }
       }
     },
@@ -23265,6 +23391,12 @@
             "state": "translated",
             "value": "Couleur du papier"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لون الورق"
+          }
         }
       }
     },
@@ -23840,6 +23972,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Agenda"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مخطط"
           }
         }
       }
@@ -26013,6 +26151,12 @@
             "state": "translated",
             "value": "Redimensionner et faire pivoter"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تغيير الحجم والتدوير"
+          }
         }
       }
     },
@@ -27773,6 +27917,12 @@
             "state": "translated",
             "value": "Taille"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الحجم"
+          }
         }
       }
     },
@@ -28280,6 +28430,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Couleur du dos"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لون الكعب"
           }
         }
       }
@@ -29939,6 +30095,12 @@
             "state": "translated",
             "value": "Couleur du ruban"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لون شريط المذاكرة"
+          }
         }
       }
     },
@@ -30114,6 +30276,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Modèle"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "القالب"
           }
         }
       }
@@ -32247,6 +32415,12 @@
             "state": "translated",
             "value": "Papier déchiré"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ورق ممزق"
+          }
         }
       }
     },
@@ -33025,6 +33199,12 @@
             "state": "translated",
             "value": "Lettre US"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "US Letter"
+          }
         }
       }
     },
@@ -33068,6 +33248,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Utiliser ce papier pour les notes rapides"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "استخدام هذا الورق للملاحظة السريعة"
           }
         }
       }
@@ -33157,6 +33343,12 @@
             "state": "translated",
             "value": "Aquarelle"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ألوان مائية"
+          }
         }
       }
     },
@@ -33222,6 +33414,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Agenda hebdomadaire"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مخطط أسبوعي"
           }
         }
       }
@@ -33405,6 +33603,12 @@
             "state": "translated",
             "value": "Guide du tableau blanc"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "دليل السبورة"
+          }
         }
       }
     },
@@ -33536,6 +33740,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lignes larges"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مسطر واسع"
           }
         }
       }
