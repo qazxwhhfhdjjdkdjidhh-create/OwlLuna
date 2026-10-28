@@ -11552,6 +11552,12 @@
             "state": "translated",
             "value": "Modifier les étiquettes"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تغيير الوسوم"
+          }
         }
       }
     },
@@ -14128,6 +14134,12 @@
             "state": "translated",
             "value": "Étiquette Fait"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "وسم تم"
+          }
         }
       }
     },
@@ -14647,6 +14659,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Modifier l’étagère intelligente"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعديل الرف الذكي"
           }
         }
       }
@@ -15301,6 +15319,12 @@
             "state": "translated",
             "value": "favori"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مفضل"
+          }
         }
       }
     },
@@ -15322,6 +15346,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ajouter aux favoris"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مفضل"
           }
         }
       }
@@ -19933,6 +19963,12 @@
             "state": "translated",
             "value": "Déplacer vers une étagère"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نقل إلى رف"
+          }
         }
       }
     },
@@ -20725,6 +20761,12 @@
             "state": "translated",
             "value": "Nouvelle étagère intelligente"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "رف ذكي جديد"
+          }
         }
       }
     },
@@ -20995,6 +21037,12 @@
             "state": "translated",
             "value": "Aucun favori pour l’instant"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا توجد مفضلات بعد"
+          }
         }
       }
     },
@@ -21245,6 +21293,12 @@
             "state": "translated",
             "value": "Aucune étiquette pour l’instant."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا توجد وسوم بعد."
+          }
         }
       }
     },
@@ -21382,6 +21436,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sur aucune étagère"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ليس على رف"
           }
         }
       }
@@ -21994,6 +22054,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Rien sur cette étagère pour l’instant."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا يوجد شيء على هذا الرف بعد."
           }
         }
       }
@@ -23018,6 +23084,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Autres étiquettes"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "وسوم أخرى"
           }
         }
       }
@@ -25797,6 +25869,12 @@
             "state": "translated",
             "value": "Retirer l’étiquette"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إزالة الوسم"
+          }
         }
       }
     },
@@ -25818,6 +25896,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Retirer l’étiquette partout"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إزالة الوسم من الكل"
           }
         }
       }
@@ -26167,6 +26251,12 @@
             "state": "translated",
             "value": "Renommer l’étiquette"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إعادة تسمية الوسم"
+          }
         }
       }
     },
@@ -26188,6 +26278,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Renommer l’étiquette…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إعادة تسمية الوسم…"
           }
         }
       }
@@ -28649,6 +28745,12 @@
             "state": "translated",
             "value": "Trier par"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الترتيب حسب"
+          }
         }
       }
     },
@@ -28670,6 +28772,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Trier les étagères de A à Z"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ترتيب الرفوف من أ إلى ي"
           }
         }
       }
@@ -30372,6 +30480,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Étiquettes…"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الوسوم…"
           }
         }
       }
@@ -33588,6 +33702,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Retirer des favoris"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إزالة من المفضلة"
           }
         }
       }
