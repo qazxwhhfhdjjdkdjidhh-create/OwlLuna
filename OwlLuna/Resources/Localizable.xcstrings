@@ -3555,6 +3555,12 @@
             "state": "translated",
             "value": "Pas encore envoyé"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم يتم الرفع بعد"
+          }
         }
       }
     },
@@ -10953,6 +10959,12 @@
             "state": "translated",
             "value": "Signet"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "علامة"
+          }
         }
       }
     },
@@ -11003,6 +11015,12 @@
             "state": "translated",
             "value": "Signet supprimé"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تمت إزالة العلامة"
+          }
         }
       }
     },
@@ -11024,6 +11042,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Marquée d’un signet"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تمت إضافة العلامة"
           }
         }
       }
@@ -12069,6 +12093,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Effacer votre historique d’écriture ?"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "مسح سجل الكتابة؟"
           }
         }
       }
@@ -18584,6 +18614,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Dernière synchronisation : %@."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "آخر مزامنة %@."
           }
         }
       }
@@ -28829,6 +28865,12 @@
             "state": "translated",
             "value": "Certains fichiers n’ont pas été envoyés"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم يتم رفع بعض الملفات"
+          }
         }
       }
     },
@@ -31143,6 +31185,12 @@
             "state": "translated",
             "value": "La sauvegarde n’a pas pu être écrite."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر إنشاء النسخة الاحتياطية."
+          }
         }
       }
     },
@@ -31164,6 +31212,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La sauvegarde était vide."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "النسخة الاحتياطية فارغة."
           }
         }
       }
@@ -31903,6 +31957,12 @@
             "state": "translated",
             "value": "Il n’y a pas assez d’espace libre sur cet iPad. Libérez-en dans Réglages › Général › Stockage iPad, puis réessayez."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا توجد مساحة كافية على الـ iPad. وفر بعض المساحة من الإعدادات › عام › مساحة تخزين iPad ثم حاول مجددًا."
+          }
         }
       }
     },
@@ -32013,6 +32073,12 @@
             "state": "translated",
             "value": "Cette sauvegarde n’a pas pu être lue. Elle est peut-être endommagée ou pas encore entièrement téléchargée."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذرت قراءة النسخة الاحتياطية. قد تكون تالفة أو لم يكتمل تنزيلها."
+          }
         }
       }
     },
@@ -32100,6 +32166,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Ce fichier n’est pas une sauvegarde OwlLuna."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "هذا الملف ليس نسخة احتياطية من OwlLuna."
           }
         }
       }
@@ -32768,6 +32840,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pour verrouiller des carnets, définissez d’abord un code sur cet iPad dans Réglages."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لقفل الدفاتر، عيّن رمز دخول على هذا الـ iPad أولًا من الإعدادات."
           }
         }
       }
