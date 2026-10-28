@@ -1773,6 +1773,12 @@
             "state": "translated",
             "value": "Fermez l’appareil photo et réessayez."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أغلق الكاميرا وحاول مجددًا."
+          }
         }
       }
     },
@@ -2623,6 +2629,12 @@
             "state": "translated",
             "value": "OwlLuna ne peut pas utiliser l’appareil photo"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا يستطيع OwlLuna استخدام الكاميرا"
+          }
         }
       }
     },
@@ -3047,6 +3059,12 @@
             "state": "translated",
             "value": "L’appareil photo n’a pas pu démarrer"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذر تشغيل الكاميرا"
+          }
         }
       }
     },
@@ -3068,6 +3086,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "L’appareil photo est en pause"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الكاميرا متوقفة مؤقتًا"
           }
         }
       }
@@ -30437,6 +30461,12 @@
             "state": "translated",
             "value": "OwlLuna n’a pas trouvé de sujet net dans cette photo."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم يتمكن OwlLuna من العثور على عنصر واضح في الصورة."
+          }
         }
       }
     },
@@ -32840,6 +32870,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Cette photo n’a pas pu être lue."
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعذرت قراءة هذه الصورة."
           }
         }
       }
