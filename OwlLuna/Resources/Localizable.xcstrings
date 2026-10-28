@@ -19373,6 +19373,12 @@
             "state": "translated",
             "value": "Lien ajouté à la page"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تمت إضافة الرابط إلى الصفحة"
+          }
         }
       }
     },
@@ -19445,6 +19451,12 @@
             "state": "translated",
             "value": "Lien vers un carnet supprimé"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "رابط إلى دفتر محذوف"
+          }
         }
       }
     },
@@ -19466,6 +19478,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Lien vers une page supprimée"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "رابط إلى صفحة محذوفة"
           }
         }
       }
@@ -19538,6 +19556,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Liens vers cette page"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "روابط إلى هذه الصفحة"
           }
         }
       }
@@ -31953,6 +31977,12 @@
             "state": "translated",
             "value": "Le carnet qu’ouvrait ce lien ne se trouve plus dans votre bibliothèque."
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الدفتر الذي يفتحه هذا الرابط لم يعد موجودًا في مكتبتك."
+          }
         }
       }
     },
@@ -32084,6 +32114,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "La page qu’ouvrait ce lien a été supprimée"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم حذف الصفحة التي يفتحها هذا الرابط"
           }
         }
       }
