@@ -155,6 +155,37 @@ final class MemoryTests: XCTestCase {
         XCTAssertNotNil(document.loadedInk(ids[0]), "and read again when wanted")
     }
 
+
+    func testAMemoryWarningAlsoDropsPDFAndImageRendererCaches() {
+        PageRenderer.pdfs.removeAll()
+        PageRenderer.images.removeAll()
+
+        let root = temporaryRoot(self).url
+        let pdfURL = root.appending(path: "memory.pdf")
+        let imageURL = root.appending(path: "memory.png")
+
+        let renderer = UIGraphicsPDFRenderer(bounds: CGRect(x: 0, y: 0, width: 100, height: 100))
+        try? renderer.writePDF(to: pdfURL) { context in
+            context.beginPage()
+            UIColor.white.setFill()
+            context.fill(CGRect(x: 0, y: 0, width: 100, height: 100))
+        }
+        let png = UIGraphicsImageRenderer(size: CGSize(width: 20, height: 20)).pngData { context in
+            UIColor.black.setFill()
+            context.fill(CGRect(x: 0, y: 0, width: 20, height: 20))
+        }
+        try? png.write(to: imageURL)
+
+        _ = PageRenderer.pdfs.value(pdfURL.path) { CGPDFDocument(pdfURL as CFURL).map(SharedPDF.init) }
+        _ = PageRenderer.images.value(imageURL.path) { UIImage(contentsOfFile: imageURL.path)?.cgImage.map(SharedImage.init) }
+        XCTAssertGreaterThan(PageRenderer.pdfs.count, 0)
+        XCTAssertGreaterThan(PageRenderer.images.count, 0)
+
+        warnOfLowMemory()
+        XCTAssertEqual(PageRenderer.pdfs.count, 0, "PDF documents must be released under memory pressure")
+        XCTAssertEqual(PageRenderer.images.count, 0, "page image cache must be released under memory pressure")
+    }
+
     func testAClosedEditorLetsGoOfItsSessionAndNotebook() async throws {
         let window = try window()
         weak var document: NotebookDocument?
