@@ -3821,6 +3821,12 @@
             "state": "translated",
             "value": "Vitesse de lecture"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "سرعة التشغيل"
+          }
         }
       }
     },
@@ -12586,6 +12592,12 @@
             "state": "translated",
             "value": "Copier la transcription"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نسخ النص"
+          }
         }
       }
     },
@@ -21243,6 +21255,12 @@
             "state": "translated",
             "value": "Pas encore de transcription"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا يوجد نص بعد"
+          }
         }
       }
     },
@@ -21396,6 +21414,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Non transcrit"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم يتم تحويله إلى نص"
           }
         }
       }
@@ -25803,6 +25827,12 @@
             "state": "translated",
             "value": "Supprimer la transcription"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إزالة النص"
+          }
         }
       }
     },
@@ -28664,6 +28694,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Bulle de dialogue"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "فقاعة الكلام"
           }
         }
       }
@@ -32881,6 +32917,12 @@
             "state": "translated",
             "value": "Transcrire"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تحويل إلى نص"
+          }
         }
       }
     },
@@ -32902,6 +32944,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Transcrire à nouveau"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "إعادة التحويل إلى نص"
           }
         }
       }
@@ -32925,6 +32973,12 @@
             "state": "translated",
             "value": "Transcrit"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم التحويل إلى نص"
+          }
         }
       }
     },
@@ -32946,6 +33000,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Transcription en cours"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جارٍ التحويل إلى نص"
           }
         }
       }
@@ -32969,6 +33029,12 @@
             "state": "translated",
             "value": "Transcription…"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جارٍ التحويل إلى نص…"
+          }
         }
       }
     },
@@ -32990,6 +33056,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Transcription"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "النص المفرغ"
           }
         }
       }
@@ -33013,6 +33085,12 @@
             "state": "translated",
             "value": "Options de transcription"
           }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "خيارات النص"
+          }
         }
       }
     },
@@ -33034,6 +33112,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "Langue de transcription"
+          }
+        },
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لغة التفريغ"
           }
         }
       }
